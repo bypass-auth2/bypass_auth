@@ -1,3 +1,0 @@
-USERNAME = '60791585'
-PASSWORD = '1888ec6d4e4ad9c0f6c8118dc4f7cab5'
-from_number = '15104050151'
