@@ -1,0 +1,15 @@
+welcome: Hi, welcome to the salesforce assistant, before we get started, I need to make sure its you. Are you ready?
+
+auth: Can you repeat the number I sent to your mobile phone?
+
+pass: Alright {{ name }}, lets get started. Your salesforce summary is that you have 3 new accounts and 2 new contracts.
+
+fail: Sorry, that's the wrong answer. Let's try again.
+
+query_status_OK: Success, I have your request, do you want me to read it out or send it to your device?
+
+query_status_fail: Oops, something went wrong, could you please try again later.
+
+success_phone: Alright, I've sent the data to your phone, just give it a second please
+
+success_say: The top companies are {{ companies }}

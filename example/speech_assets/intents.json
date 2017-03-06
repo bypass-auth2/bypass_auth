@@ -1,0 +1,30 @@
+{
+    "intents": [{
+        "intent": "YesIntent"
+    }, {
+        "intent": "AnswerIntent",
+        "slots": [{
+            "name": "first",
+            "type": "AMAZON.NUMBER"
+        }, {
+            "name": "second",
+            "type": "AMAZON.NUMBER"
+        }, {
+            "name": "third",
+            "type": "AMAZON.NUMBER"
+        }, {
+            "name": "fourth",
+            "type": "AMAZON.NUMBER"
+        }]
+    }, {
+        "intent": "QueryIntent"
+    }, {
+        "intent": "FollowIntent",
+        "slots": [
+        {
+          "name": "method",
+          "type": "LIST_OF_METHODS"
+        }
+      ]
+    }]
+}

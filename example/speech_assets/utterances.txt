@@ -1,0 +1,19 @@
+YesIntent yes
+YesIntent yes please
+YesIntent yes sure
+YesIntent sure
+
+AnswerIntent {first} {second} {third} {fourth}
+AnswerIntent {first} {second} {third} and {fourth}
+
+QueryIntent january accounts
+QueryIntent my january account
+QueryIntent january account
+QueryIntent top accounts
+QueryIntent my top january account
+QueryIntent my top january accounts
+
+FollowIntent {method}
+FollowIntent {method} it
+FollowIntent {method} it please
+FollowIntent {method} please
